@@ -1,6 +1,6 @@
 # show-in-explorer-plus
 
-Alternative of "Show in explorer" fixing the problem of opening explorer in the background.
+**Alternative of "Show in explorer" fixing the problem of opening explorer in the background.**
 
 While "Show in explorer" need to be fixed on the core package.
 i created this package which 

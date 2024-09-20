@@ -1,0 +1,10 @@
+{
+  "context-menu": {
+    ".tree-view .directory": [
+      {
+        "label": "📂 Show in explorer+",
+        "command": "show-in-explorer-plus:show-in-explorer-plus"
+      }
+    ]
+  }
+}

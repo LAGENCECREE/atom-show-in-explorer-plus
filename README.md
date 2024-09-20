@@ -1,4 +1,4 @@
-# show-in-explorer-plus
+# atom-show-in-explorer-plus
 
 **Alternative of "Show in explorer" fixing the problem of opening explorer in the background.**
 
